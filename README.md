@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **This project is archived and no longer maintained.**
+>
+> This was the original version, written in Visual Basic 6 (VB6). Development has continued in a new repository, rewritten from scratch in C#:
+> 
+> **[mesutakcan/AS-Desktop-Calendar](https://github.com/mesutakcan/AS-Desktop-Calendar)**
+>
+> Please use the new project for the latest version, updates, bug fixes, and releases.
+
 # AS Desktop Calendar
 
 This application generates a desktop background with calendars for the current and next month, displayed in the system’s locale language.
